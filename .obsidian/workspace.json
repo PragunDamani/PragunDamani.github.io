@@ -11,9 +11,11 @@
             "id": "79c9bb14b50d73d3",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://pragundamani.github.io"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -29,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,11 +174,10 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-importer:Open Importer": false,
-      "surfing:surfing-bookmark-manager": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "04a1dd891e908426",
+  "active": "79c9bb14b50d73d3",
   "lastOpenFiles": [
     "_site/index.md",
     "_site",
