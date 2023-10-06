@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "bd010520a7503ec7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e136cecf4e1c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c9bb14b50d73d3",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://pragundamani.github.io"
+              }
+            }
+          },
+          {
+            "id": "d489bec8532d3293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f272b677b4cbea9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b7876fdc9ba043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2dd356d67b6ed87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b2e583830b5d32e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57e43fe857ec73ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "20bd9edf76224438",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "a00074d380194c60",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f6d089f7de66c83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a6a2699c781f01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7497afb1b4c3d27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4f4a4dd4c722559",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21f9e8de803062f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "04a1dd891e908426",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "surfing:surfing-bookmark-manager": false
+    }
+  },
+  "active": "04a1dd891e908426",
+  "lastOpenFiles": [
+    "_site/index.md",
+    "_site",
+    "Gemfile.lock",
+    "Gemfile",
+    "index.md",
+    "index.md",
+    "_posts/2023-10-05-welcome-to-jekyll.md",
+    "about.md",
+    "_layouts/post.html",
+    "_layouts/page.html",
+    "_layouts/default.html",
+    "_layouts",
+    "blackdocu-gh-pages/blackdocu-gh-pages/public/images/reverse-screenshot.png",
+    "blackdocu-gh-pages/blackdocu-gh-pages/public/images/blackdoc-screenshot.jpg",
+    "blackdocu-gh-pages/blackdocu-gh-pages/public/images",
+    "blackdocu-gh-pages/blackdocu-gh-pages/public/css/syntax.css",
+    "blackdocu-gh-pages/blackdocu-gh-pages/public/css/poole.css",
+    "blackdocu-gh-pages/blackdocu-gh-pages/_posts/13/thanksgiving_guest_list.md",
+    "blackdocu-gh-pages/blackdocu-gh-pages/_posts/13/sample.jpg",
+    "blackdocu-gh-pages/blackdocu-gh-pages/_posts/2019-09-13-journal.md",
+    "blackdocu-gh-pages/blackdocu-gh-pages/_posts/2019-07-14-introducing-blackdoc.md",
+    "blackdocu-gh-pages/blackdocu-gh-pages/_posts/2012-02-07-example-content.md",
+    "blackdocu-gh-pages/blackdocu-gh-pages/_posts/2012-02-06-whats-jekyll.md",
+    "blackdocu-gh-pages/blackdocu-gh-pages/_posts/13.md",
+    "blackdocu-gh-pages/blackdocu-gh-pages/styles.md",
+    "blackdocu-gh-pages/blackdocu-gh-pages/about.md",
+    "blackdocu-gh-pages/blackdocu-gh-pages/README.md",
+    "blackdocu-gh-pages/blackdocu-gh-pages/LICENSE.md",
+    "basic html.css.js/image/giphy.gif",
+    "basic html.css.js/image/img4.jpg",
+    "basic html.css.js/image/Uart.jpg",
+    "basic html.css.js/image/img3.jpg",
+    "basic html.css.js/image/img5.jpg",
+    "basic html.css.js/image/img2.jpg",
+    "HTML import/index.md"
+  ]
+}
