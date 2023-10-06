@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "3c18d3fb1805d88c",
+            "id": "51677fc37536eb9f",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
@@ -185,11 +185,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3c18d3fb1805d88c",
+  "active": "51677fc37536eb9f",
   "lastOpenFiles": [
     "index.md",
-    "about.md",
     "_site/index.md",
+    "about.md",
     "_site",
     "Gemfile.lock",
     "Gemfile",
