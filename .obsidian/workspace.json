@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,8 +195,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "52bdb2000e578bed",
+  "active": "bf13d1d836374ff1",
   "lastOpenFiles": [
+    "_layouts/default.html",
+    "_layouts",
     "index.md",
     "_site/index.md",
     "about.md",
@@ -206,8 +208,6 @@
     "_posts/2023-10-05-welcome-to-jekyll.md",
     "_layouts/post.html",
     "_layouts/page.html",
-    "_layouts/default.html",
-    "_layouts",
     "blackdocu-gh-pages/blackdocu-gh-pages/public/images/reverse-screenshot.png",
     "blackdocu-gh-pages/blackdocu-gh-pages/public/images/blackdoc-screenshot.jpg",
     "blackdocu-gh-pages/blackdocu-gh-pages/public/images",
