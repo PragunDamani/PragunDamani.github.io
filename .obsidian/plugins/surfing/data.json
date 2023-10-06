@@ -1,0 +1,70 @@
+{
+  "defaultSearchEngine": "duckduckgo",
+  "customSearchEngine": [
+    {
+      "name": "duckduckgo",
+      "url": "https://duckduckgo.com/?q="
+    }
+  ],
+  "ignoreList": [
+    "notion",
+    "craft"
+  ],
+  "alwaysShowCustomSearch": false,
+  "showOtherSearchEngines": false,
+  "showSearchBarInPage": true,
+  "markdownPath": "/",
+  "customHighlightFormat": false,
+  "highlightFormat": "[{CONTENT}]({URL})",
+  "highlightInSameTab": false,
+  "openInSameTab": false,
+  "showRefreshButton": true,
+  "openInObsidianWeb": false,
+  "useCustomIcons": false,
+  "useWebview": false,
+  "useIconList": true,
+  "darkMode": true,
+  "bookmarkManager": {
+    "openBookMark": true,
+    "saveBookMark": false,
+    "sendToReadWise": false,
+    "pagination": "12",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
+    "defaultCategory": "ROOT",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "url",
+      "category",
+      "tags",
+      "created",
+      "modified",
+      "action"
+    ],
+    "defaultFilterType": "tree"
+  },
+  "treeData": [
+    {
+      "id": "9282c91c1a56c36c",
+      "parent": 0,
+      "droppable": true,
+      "text": "Interesting things to wonder about | My name is Pragun Damani and this is Interesting things to wonder about where I post detailed information on things that intrigue me in various subjects",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "0232ff63c07d1552",
+      "parent": 0,
+      "droppable": true,
+      "text": "GitHub - pragundamani/pragundamani.github.io",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
+}

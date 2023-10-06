@@ -1,0 +1,48 @@
+{
+  "bookmarks": [
+    {
+      "id": "-936010072",
+      "name": "GitHub - pragundamani/pragundamani.github.io",
+      "url": "https://github.com/pragundamani/pragundamani.github.io",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1696508700290,
+      "modified": 1696508700290
+    },
+    {
+      "id": "1115306431",
+      "name": "Interesting things to wonder about | My name is Pragun Damani and this is Interesting things to wonder about where I post detailed information on things that intrigue me in various subjects",
+      "url": "https://pragundamani.github.io",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1696508529134,
+      "modified": 1696508529134
+    },
+    {
+      "id": "2014068036",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "description": "A awesome note-taking tool",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1672840861051,
+      "modified": 1672840861052
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}
