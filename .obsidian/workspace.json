@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,16 +178,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "79c9bb14b50d73d3",
+  "active": "d489bec8532d3293",
   "lastOpenFiles": [
+    "about.md",
+    "index.md",
     "_site/index.md",
     "_site",
     "Gemfile.lock",
     "Gemfile",
-    "index.md",
-    "index.md",
     "_posts/2023-10-05-welcome-to-jekyll.md",
-    "about.md",
     "_layouts/post.html",
     "_layouts/page.html",
     "_layouts/default.html",
