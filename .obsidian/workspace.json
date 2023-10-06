@@ -32,22 +32,22 @@
             }
           },
           {
-            "id": "51677fc37536eb9f",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://pragundamani.github.io"
-              }
-            }
-          },
-          {
             "id": "bf13d1d836374ff1",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://github.com/pragundamani/pragundamani.github.io/tree/main"
+                "url": "https://github.com/pragundamani/pragundamani.github.io"
+              }
+            }
+          },
+          {
+            "id": "52bdb2000e578bed",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://pragundamani.github.io"
               }
             }
           }
@@ -195,7 +195,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bf13d1d836374ff1",
+  "active": "52bdb2000e578bed",
   "lastOpenFiles": [
     "index.md",
     "_site/index.md",

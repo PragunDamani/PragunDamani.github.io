@@ -45,21 +45,10 @@
   },
   "treeData": [
     {
-      "id": "51677fc37536eb9f",
+      "id": "52bdb2000e578bed",
       "parent": 0,
       "droppable": true,
       "text": "Your awesome title | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "bf13d1d836374ff1",
-      "parent": 0,
-      "droppable": true,
-      "text": "pragundamani.github.io/_site at main · pragundamani/pragundamani.github.io · GitHub",
       "data": {
         "fileType": "site",
         "fileSize": "",
