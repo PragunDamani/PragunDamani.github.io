@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "attchments",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showLineNumber": true
 }
