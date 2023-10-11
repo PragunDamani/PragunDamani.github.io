@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "README.md"
               }
             }
           },
@@ -200,17 +199,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bf13d1d836374ff1",
+  "active": "79c9bb14b50d73d3",
   "lastOpenFiles": [
+    "index.md",
+    "about.md",
     "README.md",
     "LICENSE",
     "index.markdown",
     "about.markdown",
     "_layouts/default.html",
     "_layouts",
-    "index.md",
     "_site/index.md",
-    "about.md",
     "_site",
     "Gemfile.lock",
     "Gemfile",
