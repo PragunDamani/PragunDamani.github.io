@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_site/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,16 +42,17 @@
             }
           },
           {
-            "id": "52bdb2000e578bed",
+            "id": "8bd97f4fee89e8ee",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://pragundamani.github.io"
+                "url": "https://github.com/pragundamani/pragundamani.github.io"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,17 +196,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "79c9bb14b50d73d3",
+  "active": "8bd97f4fee89e8ee",
   "lastOpenFiles": [
+    "_site/index.md",
     "index.md",
-    "about.md",
     "README.md",
+    "about.md",
     "LICENSE",
     "index.markdown",
     "about.markdown",
     "_layouts/default.html",
     "_layouts",
-    "_site/index.md",
     "_site",
     "Gemfile.lock",
     "Gemfile",
