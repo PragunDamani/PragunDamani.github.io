@@ -20,29 +20,19 @@
             }
           },
           {
-            "id": "d489bec8532d3293",
+            "id": "374aea2769b7b5bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_site/index.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "195242aaabcfca3d",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://pragundamani.github.io"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +180,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "195242aaabcfca3d",
+  "active": "374aea2769b7b5bb",
   "lastOpenFiles": [
     "index.md",
     "_site/index.md",
