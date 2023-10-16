@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e136cecf4e1c8c",
+        "id": "1612f6e6f9f5e86d",
         "type": "tabs",
         "children": [
           {
-            "id": "79c9bb14b50d73d3",
+            "id": "cfe411ea7bef1cd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_site/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "374aea2769b7b5bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_site/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_site/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,23 +159,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "374aea2769b7b5bb",
+  "active": "cfe411ea7bef1cd6",
   "lastOpenFiles": [
-    "index.md",
-    "_site/index.md",
-    "README.md",
+    "Gemfile.lock",
     "about.md",
+    "404.html",
+    "_config.yml",
+    "_site/index.md",
+    "_site",
+    "_posts",
+    "_layouts/default.html",
+    "_layouts",
+    "README.md",
+    "index.md",
     "LICENSE",
     "index.markdown",
     "about.markdown",
-    "_layouts/default.html",
-    "_layouts",
-    "_site",
-    "Gemfile.lock",
-    "Gemfile",
     "_posts/2023-10-05-welcome-to-jekyll.md",
-    "_layouts/post.html",
-    "_layouts/page.html",
     "blackdocu-gh-pages/blackdocu-gh-pages/public/images/reverse-screenshot.png",
     "blackdocu-gh-pages/blackdocu-gh-pages/public/images/blackdoc-screenshot.jpg",
     "blackdocu-gh-pages/blackdocu-gh-pages/_posts/13/thanksgiving_guest_list.md",
