@@ -45,21 +45,10 @@
   },
   "treeData": [
     {
-      "id": "bf13d1d836374ff1",
+      "id": "195242aaabcfca3d",
       "parent": 0,
       "droppable": true,
       "text": "New Tab",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "8bd97f4fee89e8ee",
-      "parent": 0,
-      "droppable": true,
-      "text": "Your Repositories",
       "data": {
         "fileType": "site",
         "fileSize": "",
