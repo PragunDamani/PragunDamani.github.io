@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e03d90350789855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,13 +180,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d2dd356d67b6ed87",
+  "active": "1e03d90350789855",
   "lastOpenFiles": [
     "about.md",
     "index.md",
+    "_config.yml",
     "Gemfile.lock",
     "404.html",
-    "_config.yml",
     "_site/index.md",
     "_site",
     "_posts",
