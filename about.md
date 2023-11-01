@@ -1,1 +1,1 @@
-I am trying to set up the blog and this is a test
+I'm creating this site for my blog, maybe in a while I'll add all of notes to it. First however let's begin with the basics shall we.
