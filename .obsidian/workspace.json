@@ -11,8 +11,12 @@
             "id": "cfe411ea7bef1cd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -159,10 +167,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cfe411ea7bef1cd6",
+  "active": "d2dd356d67b6ed87",
   "lastOpenFiles": [
-    "Gemfile.lock",
     "about.md",
+    "index.md",
+    "Gemfile.lock",
     "404.html",
     "_config.yml",
     "_site/index.md",
@@ -171,7 +180,6 @@
     "_layouts/default.html",
     "_layouts",
     "README.md",
-    "index.md",
     "LICENSE",
     "index.markdown",
     "about.markdown",
