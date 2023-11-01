@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "aaa9fb268b756183",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +159,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "aaa9fb268b756183",
+  "active": "cfe411ea7bef1cd6",
   "lastOpenFiles": [
     "Gemfile.lock",
     "about.md",
